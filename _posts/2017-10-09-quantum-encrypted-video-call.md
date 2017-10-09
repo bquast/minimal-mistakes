@@ -18,7 +18,5 @@ That string of bits then serves as a sort of secret code with which two parties 
 
 Quantum encryption has long been an alluring theoretical possibility, but executing key distribution on an international scale has required substantial investment. China has built five ground stations to communicate with Micius. These connect to a 2,000-kilometer fiber optic backbone between Beijing and Shanghai (completed in 2016). Together they form the world’s first space-ground quantum network.
 
-full article:
-
-https://spectrum.ieee.org/tech-talk/telecom/security/china-successfully-demonstrates-quantum-encryption-by-hosting-a-video-call
+[full article](https://spectrum.ieee.org/tech-talk/telecom/security/china-successfully-demonstrates-quantum-encryption-by-hosting-a-video-call)
 
