@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "en"
-title                    : "quantum"
+title                    : "Nacent Technologies Watch"
 title_separator          : "-"
 name                     : "Fernando Rivera"
-description              : "Quantum research news for ITU."
+description              : "Nacent Technologies Watch for ITU."
 url                      : http://qua.st
 baseurl                  : /quantum
 repository               : bquast/quantum
