@@ -1,4 +1,4 @@
-﻿---
+---
 layout:    single
 title:     "How Entanglement-Generating Satellites Will Make the Quantum Internet Global"
 permalink: entanglement-generating-satellites
