@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : "Fernando Rivera"
 description              : "Nacent Technologies Watch for ITU."
 url                      : http://qua.st
-baseurl                  : /quantum
+baseurl                  : /nastech
 repository               : bquast/quantum
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
